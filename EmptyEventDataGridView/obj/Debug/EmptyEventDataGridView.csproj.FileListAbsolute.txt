@@ -1,0 +1,10 @@
+C:\Users\V0990930\source\repos\EmptyEventDataGridView\EmptyEventDataGridView\bin\Debug\EmptyEventDataGridView.exe.config
+C:\Users\V0990930\source\repos\EmptyEventDataGridView\EmptyEventDataGridView\bin\Debug\EmptyEventDataGridView.exe
+C:\Users\V0990930\source\repos\EmptyEventDataGridView\EmptyEventDataGridView\bin\Debug\EmptyEventDataGridView.pdb
+C:\Users\V0990930\source\repos\EmptyEventDataGridView\EmptyEventDataGridView\obj\Debug\EmptyEventDataGridView.csprojAssemblyReference.cache
+C:\Users\V0990930\source\repos\EmptyEventDataGridView\EmptyEventDataGridView\obj\Debug\EmptyEventDataGridView.Form1.resources
+C:\Users\V0990930\source\repos\EmptyEventDataGridView\EmptyEventDataGridView\obj\Debug\EmptyEventDataGridView.Properties.Resources.resources
+C:\Users\V0990930\source\repos\EmptyEventDataGridView\EmptyEventDataGridView\obj\Debug\EmptyEventDataGridView.csproj.GenerateResource.cache
+C:\Users\V0990930\source\repos\EmptyEventDataGridView\EmptyEventDataGridView\obj\Debug\EmptyEventDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\V0990930\source\repos\EmptyEventDataGridView\EmptyEventDataGridView\obj\Debug\EmptyEventDataGridView.exe
+C:\Users\V0990930\source\repos\EmptyEventDataGridView\EmptyEventDataGridView\obj\Debug\EmptyEventDataGridView.pdb
